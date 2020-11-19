@@ -1,0 +1,39 @@
+@import url('https://fonts.google.com/specimen/Acme');
+.Mainsearch {
+    text-align: center;
+}
+.appointment-list {
+  font-size: 1.0em;
+}
+.fnts{
+  font-family: 'Acme', sans-serif;
+}
+
+.appointment-list .pet-item {
+}
+
+.appointment-list .pet-item:last-child {
+  border-bottom: none;
+}
+
+.appointment-list .pet-name {
+  font-weight: 600;
+  color: black;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.appointment-list .label-item
+{
+  font-weight: 600;
+  color: black;
+  line-height: 40%;
+}
+
+.appointment-list .apt-date {
+  font-style: italic;
+}
+
+.appointment-list .aptNotes {
+  line-height: 100%;
+}
